@@ -1,0 +1,14 @@
+.main{
+    background-color: cyan;
+    border-width: 10px;
+    background-size:cover;
+
+}
+#work{
+    background-color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.change{
+    padding-right: 50px;
+    
+}
